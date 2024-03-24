@@ -1,3 +1,3 @@
 # git_test
-first repo 
+first repo \n
 hey!!!

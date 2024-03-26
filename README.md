@@ -1,3 +1,6 @@
 # first_git
+def main():
+    print("Hello, world!")
 
-hey !
+if __name__ == "__main__":
+    main()
